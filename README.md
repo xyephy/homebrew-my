@@ -1,1 +1,1 @@
-# homebrew-my
+# Older boost installation on mac via homebrew
